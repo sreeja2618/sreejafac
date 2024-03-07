@@ -1,0 +1,35 @@
+[
+    {
+        "FacultyName": "Dr. Meeravali Shaikh",
+        "FacultyDegree": [
+            "B. Tech (CSE)",
+            "M. Tech (CSE)",
+            "Ph. D (CSE)"
+        ],
+        "FacultyPosition": "HOD",
+        "FacultyExperience": "13 Years",
+        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
+    },
+    {
+        "FacultyName": "Dr. Arun Singh Chouhan",
+        "FacultyDegree": [
+            "B.E (CSE)",
+            "M. Tech (CSE)",
+            "Ph. D (CSE)"
+        ],
+        "FacultyPosition": "Associate Professor",
+        "FacultyExperience": "15 Years",
+        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
+    },
+    {
+        "FacultyName": "Dr. M. Narayanan",
+        "FacultyDegree": [
+            "B.E (CSE)",
+            "M.E (CSE)",
+            "Ph. D (CSE)"
+        ],
+        "FacultyPosition": "Professor",
+        "FacultyExperience": "17 Years",
+        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
+    }]
+    
