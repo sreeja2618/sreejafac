@@ -32,7 +32,7 @@
         ],
         "FacultyId":"102",
         "FacultyPosition": "Professor",
-        "FacultyExperience": "17 Years",
+        
         "FacultyImage": "https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
     },
     {
@@ -44,7 +44,7 @@
         ],
         "FacultyId":"103",
         "FacultyPosition": "Professor",
-        "FacultyExperience": "20 Years (Industry), 13 Years (Teaching)",
+        
         "FacultyImage":"https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
     },
     {
@@ -56,7 +56,7 @@
         ],
         "FacultyId":"104",
         "FacultyPosition": "Assistant Professor",
-        "FacultyExperience": "10 Years",
+        
         "FacultyImage":"https://th.bing.com/th/id/OIP.gGtbeIV6uIfI6iav4JHxhwAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"
 }]
     
