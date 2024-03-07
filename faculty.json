@@ -6,9 +6,10 @@
             "M. Tech (CSE)",
             "Ph. D (CSE)"
         ],
+        "FacultyId":"100",
         "FacultyPosition": "HOD",
-        "FacultyExperience": "13 Years",
-        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
+        
+        "FacultyImage": "https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
     },
     {
         "FacultyName": "Dr. Arun Singh Chouhan",
@@ -17,9 +18,10 @@
             "M. Tech (CSE)",
             "Ph. D (CSE)"
         ],
+        "FacultyId":"101",
         "FacultyPosition": "Associate Professor",
-        "FacultyExperience": "15 Years",
-        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
+        
+        "FacultyImage": "https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
     },
     {
         "FacultyName": "Dr. M. Narayanan",
@@ -28,8 +30,33 @@
             "M.E (CSE)",
             "Ph. D (CSE)"
         ],
+        "FacultyId":"102",
         "FacultyPosition": "Professor",
         "FacultyExperience": "17 Years",
-        "FacultyImage": "https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png"
-    }]
+        "FacultyImage": "https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "FacultyName": "Dr. P. Rambabu",
+        "FacultyDegree": [
+            "B.Tech(Civil)",
+            "M. Tech(Remote Sensing)",
+            "Ph. D(Remote Sensing)"
+        ],
+        "FacultyId":"103",
+        "FacultyPosition": "Professor",
+        "FacultyExperience": "20 Years (Industry), 13 Years (Teaching)",
+        "FacultyImage":"https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "FacultyName": "Mrs. D. Suneetha",
+        "FacultyDegree": [
+            "B. Tech (CSE)",
+            "M. Tech (CSE)",
+            "Ph. D Pursuing"
+        ],
+        "FacultyId":"104",
+        "FacultyPosition": "Assistant Professor",
+        "FacultyExperience": "10 Years",
+        "FacultyImage":"https://th.bing.com/th/id/OIP.gGtbeIV6uIfI6iav4JHxhwAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"
+}]
     
