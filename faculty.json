@@ -48,15 +48,15 @@
         "FacultyImage":"https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7"
     },
     {
-        "FacultyName": "Mrs. D. Suneetha",
+        "FacultyName": "Mr. M. Krishna Kishore",
         "FacultyDegree": [
-            "B. Tech (CSE)",
+            "B. Tech (IT)",
             "M. Tech (CSE)",
-            "Ph. D Pursuing"
+            "Ph. D (Pursuing)"
         ],
         "FacultyId":"104",
         "FacultyPosition": "Assistant Professor",
         
-        "FacultyImage":"https://th.bing.com/th/id/OIP.gGtbeIV6uIfI6iav4JHxhwAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"
-}]
+        "FacultyImage":"https://th.bing.com/th/id/OIP.OIyEu-ZjyOZSBxKbFvk1-wHaHv?w=198&h=207&c=7&r=0&o=5&pid=1.7" 
+    }]
     
