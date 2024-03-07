@@ -39,8 +39,8 @@
         "FacultyName": "Dr. P. Rambabu",
         "FacultyDegree": [
             "B.Tech(Civil)",
-            "M. Tech(Remote Sensing)",
-            "Ph. D(Remote Sensing)"
+            "M. Tech(Remote Sensing)"
+            
         ],
         "FacultyId":"103",
         "FacultyPosition": "Professor",
